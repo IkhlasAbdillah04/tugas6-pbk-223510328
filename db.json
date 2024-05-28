@@ -1,0 +1,34 @@
+{
+  "produk": [
+    {
+      "id": "1",
+      "nama": "Laptop Gaming",
+      "kategori": "Elektronik"
+    },
+    {
+      "id": "2",
+      "nama": "Kaos Polos",
+      "kategori": "Pakaian"
+    },
+    {
+      "id": "3",
+      "nama": "Meja",
+      "kategori": "Perabotan"
+    },
+    {
+      "id": "4",
+      "nama": "Kopi",
+      "kategori": "Minuman"
+    },
+    {
+      "id": "5",
+      "nama": "Mouse",
+      "kategori": "Perabotan"
+    },
+    {
+      "id": "6",
+      "nama": "Kursi",
+      "kategori": "Perabotan"
+    }
+  ]
+}
